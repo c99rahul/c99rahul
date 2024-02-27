@@ -7,6 +7,8 @@ I create random things for the Web and work with different Web technologies, nam
 - Next.js, SvelteKit, Laravel
 - MySQL, MongoDB
 
+Connect with me on [Twitter](https://twitter.com/c99rahul).
+
 <!--
 **c99rahul/c99rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
