@@ -3,7 +3,7 @@
 I create random things for the Web and work with different Web technologies, naming:
 
 - LAMP, MERN
-- CSS, JavaScript, TypeScript, PHP
+- SVG, CSS, JavaScript, TypeScript, PHP
 - Next.js, SvelteKit, Laravel
 - MySQL, MongoDB
 
